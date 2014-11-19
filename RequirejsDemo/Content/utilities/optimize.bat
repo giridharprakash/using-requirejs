@@ -1,0 +1,1 @@
+%appdata%\npm\r.js.cmd -o optimize.js
